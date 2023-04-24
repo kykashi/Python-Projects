@@ -6,7 +6,7 @@ import os
 # Importing Data Frame 
 df = pd.read_excel(r"C:\Users\k4leu\OneDrive\Documents\white_belts_3.25.xlsx")
 
-# Data Fram Overview 
+# Data Frame Overview 
 df
 
 # Data Frame objects
