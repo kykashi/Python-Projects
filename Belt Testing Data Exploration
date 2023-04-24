@@ -43,10 +43,10 @@ kick_avr.index.name='Kick Type'
 kick_avr
 
 
-# Lowest average kick is the Inside-Outside Crescent Kick
+# Lowest average kick is the Inside-Outside Crescent Kick 3.85
 kick_avr.min()
 
-# Finding Highest Average kick score is the Front Kick
+# Finding Highest Average kick score is the Front Kick 4.5
 kick_avr.max()
 
 # Creating a Column Chart with the kick_avr Data Frame
