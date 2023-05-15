@@ -1,9 +1,9 @@
 # Python Projects (Pandas, NumPy)
 
-## **Context For Taekwondo School Test Score Analysis**
+### **Context For Taekwondo School Test Score Analysis**
 1. *Test Scores:* Student tests are graded on a 5 point scale where **5.0 is the highest score** and **2.0 is a passing score**
 2. *Junior/Adult:* Junior students are 7-11 years old, Adult Students are 12+
-3. *Poomsae:* Combinations of striking or blocking techniques and stances students must memorize for testing at each rank
+3. *Poomsae:* Combinations of striking or blocking techniques and stances students must memorize for testing
 4. *Kicho/Taeguk/Palgwe:* Indicates a style of Poomsae, all are rated on the same scale
 5. *Kicking Techniques:* Each belt rank has a set of kicking techniques that are individually graded
 6. *Kick Average:* Average of all scores for a particular student's kicks
