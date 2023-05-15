@@ -8,6 +8,8 @@
 5. *Kicking Techniques:* Each belt rank has a set of kicking techniques that are individually graded
 6. *Kick Average:* Average of all scores for a particular student's kicks
 
+
+
 ## [Beginner Rank Taekwondo Belt Promotion Test Analysis March 2023](https://github.com/kykashi/Python-Projects/blob/main/White_Belt_3.25_Data_Exploration.md)
 - Used *MS Excel, Python, and Tableau* to analyze belt promotion testing for beginning white belt students
 - Combined test score data with internal school data to identify student ID #s and scores
@@ -17,7 +19,9 @@
 - Lessons in the coming months will focus on Poomsae stances, which received the lowest average score
 ### [Beginner Rank Taekwondo Belt Promotion Test Score Analysis Tableau Dashboard March 2023](https://public.tableau.com/app/profile/kyle2216/viz/WhiteBeltTestMarch2023/WhiteBeltTestingDashboard)
 
-##[Advanced Rank Taekwondo Belt Rpomotion Test Analysis March 2023](https://github.com/kykashi/Python-Projects/blob/main/Advanced_Belt_Data_3.25.md)
+
+
+## [Advanced Rank Taekwondo Belt Rpomotion Test Analysis March 2023](https://github.com/kykashi/Python-Projects/blob/main/Advanced_Belt_Data_3.25.md)
 - Used *MS Excel, Python, and Tableau* to analyze belt promotion testing for advanced rank green, blue, and red belt students
 - Combined test score data with internal school data to identify student ID #s and scores
 - Advanced rank students, like the beginner students, excelled at kicking techniques in Poomsae
